@@ -15,8 +15,8 @@ CNT_Web_TEST
 
 
 ### 참고자료
-[HTML](https://opentutorials.org/course/2039)
-[CSS](https://opentutorials.org/course/2418)
-[Jquery & Ajax](https://opentutorials.org/course/53)
+[HTML](https://opentutorials.org/course/2039)  
+[CSS](https://opentutorials.org/course/2418)  
+[Jquery & Ajax](https://opentutorials.org/course/53)  
 
 +@ [Javascript](https://opentutorials.org/course/1375)
