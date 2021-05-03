@@ -12,3 +12,11 @@ CNT_Web_TEST
 ### 5. 화면 좌상단의 제목과 내용을 [이곳](https://heronoah.github.io/CNT_Web_TEST_Ref/test-value/) 의 값을 Ajax 로 가져와서 집어넣는다.
 
 ### 기타 : 매일매일 commit 해주세요.
+
+
+### 참고자료
+[HTML](https://opentutorials.org/course/2039)
+[CSS](https://opentutorials.org/course/2418)
+[Jquery & Ajax](https://opentutorials.org/course/53)
+
++@ [Javascript](https://opentutorials.org/course/1375)
